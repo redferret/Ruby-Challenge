@@ -1,7 +1,4 @@
 module RubyChallenge
-  
-  extend self
-
   # 1. Start at the back of the origianl string array with an index = string.length - 1
   # 2. Shovel the character at the given index, string[index], into a new string
   # 3. Repeat until index is 0
